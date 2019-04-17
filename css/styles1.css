@@ -1,0 +1,26 @@
+h1{
+    color: #247BA0;
+}
+body{
+    background-color: #D9D9D9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+ol,ul {
+    font-size: 18px;
+    font-style: italic;
+    
+}
+h4{
+    font-size: 25px;
+    color: #284B63;
+}
+li{
+    line-height: 20px;
+}
+strong{
+    font-style: italic;
+}
+em {
+    font-weight: bold;
+}
